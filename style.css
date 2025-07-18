@@ -1,0 +1,28 @@
+
+h1{
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    width: 350px;
+    height: px;
+    text-align: center;
+    padding: 18px;
+    margin-top: 60px;
+}
+.box{
+    background-color: black;
+    width: 600px;
+  margin: 0 auto;
+    border: 5px solid red;
+    height: 290px;
+    margin-top: 60px;
+    padding: 30px;
+}
+.text{
+background-color: rgb(18, 213, 138);
+padding-top: 10px;
+}
+.text1{
+    background-color: rgb(18, 213, 138);
+padding-top: 10px;
+}
